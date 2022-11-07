@@ -1,0 +1,274 @@
+body {
+    font-family: "Roboto";
+    background-color: #F5F5F5;
+    color: #212121;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Header */
+
+.header {
+    background: #FFFFFF;
+}
+
+.logo {
+    font-family: "Raleway";
+    color: #2196F3;
+    font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+}
+
+.site-logo {
+    color: #000000;
+}
+
+/* Site nav */
+
+.site-nav .link {
+    color: #212121;
+}
+
+.site-nav-studio .link {
+    color: #2196F3;
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+}
+
+.site-nav-portfolio {
+    color: #212121;
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+}
+
+.site-nav-portfolio .link:hover,
+.site-nav-portfolio .link:focus {
+    color: #000000;
+}
+
+.site-nav-contacts {
+    color: #212121;
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+}
+
+.site-nav-contacts .link:hover,
+.site-nav-contacts .link:focus {
+    color: #000000;
+}
+
+.site-nav .link:hover ,
+.site-nav .link:focus {
+    color: #000000;
+}
+
+/* Address */
+
+.nav-mail .link{
+    color: #2196F3;
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+}
+
+.nav-tel .link{
+    color: #757575;
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+}
+
+.nav-mail .link:hover ,
+.nav-mail .link:focus {
+    color: #000000;
+}
+
+.nav-tel .link:hover,
+.nav-tel .link:focus {
+    color: #000000;
+}
+
+/* Heroic */
+
+.hero {
+    background: #2F303A;
+}
+
+.hero-title {
+    color: #D9D9D9;
+    font-weight: 900;
+        font-size: 44px;
+        line-height: 60px;
+}
+
+.hero-btn {
+    background: #2196F3;
+    color: #FFFFFF;
+    font-family: "Roboto";
+    cursor: pointer;
+    font-weight: 700;
+        font-size: 16px;
+        line-height: 30px;
+}
+
+.hero-btn .link:hover,
+.hero-btn .link:focus {
+    color: #000000;
+}
+
+/* Main */
+
+/* Features */
+
+.features-title {
+    color: #212121;
+    font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+}
+
+.pre-features-title {
+    color: #757575;
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+}
+
+/* Work */
+
+.work-title {
+    color: #212121;
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+}
+
+/* Crew */
+
+.crew-box {
+    background-color: #F5F4FA;
+}
+
+.crew-title {
+    color: #212121;
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+}
+
+.crew-person-name {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+}
+
+.pre-crew-title {
+    color: #757575;
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+}
+
+/* Footer */
+
+.footer {
+    background: #2F303A;
+}
+
+.footer-title {
+    font-family: "Raleway";
+    color: #2196F3;
+    font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+}
+
+.pre-footer-title {
+    color: #FFFFFF;
+}
+
+.location-address .link {
+    color: #FFFFFF;
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+}
+
+.location-address .link:hover,
+.location-address .link:focus {
+    color: #000000;
+}
+
+.mail-address .link {
+    color: #FFFFFF99;
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+}
+
+.mail-address .link:hover,
+.mail-address .link:focus {
+    color: #000000;
+}
+
+.tel-address .link {
+    color: #FFFFFF99;
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+}
+
+.tel-address .link:hover,
+.tel-address .link:focus {
+    color: #000000;
+}
+
+/* Filtres */
+
+.filters-btn {
+    background-color: #2196F3;
+    font-family: 'Roboto';
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+    cursor: pointer;
+}
+
+.filters-btn-other {
+    background-color: #F5F4FA;
+    font-family: 'Roboto';
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+    cursor: pointer;
+}
+
+/* Portfolio */
+
+.portfolio-title {
+    color: #212121;
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 36px;
+}
+
+.pre-portfolio-title {
+    color: #757575;
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+}
+
+.portfolio-box {
+    background-color: #FFFFFF;
+}
